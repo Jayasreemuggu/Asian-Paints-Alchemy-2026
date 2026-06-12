@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains our proposed solution for **Asian Paints Alchemy 2026**, where our team was selected among the **Top 92 participants from over 11,000 applicants nationwide**.
+This repository contains our proposed solution for **Asian Paints Alchemy 2026**, where our team was selected among the **Top 92 participants from over 11,000+ applicants nationwide**.
 
 The project proposes an **Adaptive Self-Cleaning Coating (CASRE)** that combines materials engineering, sustainable chemistry, and business strategy to develop a premium architectural coating capable of reducing dust adhesion, improving stain removal, and lowering long-term maintenance costs.
 
